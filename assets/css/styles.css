@@ -8,7 +8,7 @@
 --deep-mocha: #332c23ff;
 }
 
-html {
+body {
 background-color: var(--amethyst-smoke);
 }
 h1{
