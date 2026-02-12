@@ -1,2 +1,17 @@
 /* styles.css */
+:root {
+/* CSS HEX */
+--icy-blue: #b1ddf1ff;
+--amethyst-smoke: #9f87afff;
+--grape-soda: #88527fff;
+--chocolate-plum: #614344ff;
+--deep-mocha: #332c23ff;
+}
 
+html {
+background-color: var(--amethyst-smoke);
+}
+h1{
+  color: var(--deep-mocha);
+}  
+  
