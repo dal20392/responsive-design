@@ -15,3 +15,6 @@ h1{
   color: var(--deep-mocha);
 }  
   
+.col{
+  border: 1px solid red;
+}
