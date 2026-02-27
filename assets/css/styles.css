@@ -18,3 +18,9 @@ h1{
 .col{
   border: 1px solid red;
 }
+img.img-fluid,
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
